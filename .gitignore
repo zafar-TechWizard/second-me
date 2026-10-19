@@ -1,0 +1,19 @@
+# APK files (large binaries)
+apk/*.apk
+apk/*.xapk
+
+# Decompiled output (can be regenerated)
+analysis/decompiled/
+
+# Large captures
+analysis/network/*.pcap
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/settings.json
